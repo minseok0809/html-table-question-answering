@@ -13,5 +13,5 @@ This project is practice code for 한국소프트웨어종합학술대회(KSC) 2
 BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation
 <br>Know What You Don't Know: Unanswerable Questions for SQuAD
 <br>Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding
-<br>[국립국어원 모두의말뭉치](https://kli.korean.go.kr.)
+<br>[국립국어원 모두의말뭉치](https://kli.korean.go.kr)
 <br></br>
