@@ -5,7 +5,7 @@
 <br><br>
 
 ## Introduction
-This project is practice code for 한국소프트웨어종합학술대회(KSC) 2024 표 이해를 위한 특수 토큰을 활용한 HTML 표 질의응답 모델 [[Paper]].
+This project is practice code for 한국소프트웨어종합학술대회(KSC) 2024 표 이해를 위한 특수 토큰을 활용한 HTML 표 질의응답 모델 [[Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12041982)].
 
 <br><br>
 
